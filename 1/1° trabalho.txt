@@ -1,1 +1,10 @@
-CRIA DE FAVELA 
+TRABALHO 001
+MARCOS VINICIUS B RIBEIRO
+Ibmec Centro 
+EDUARDO BRITO
+
+O que é uma variavel ?
+
+O que é um servidor ?
+
+O que é um arquivo de texto ? 
