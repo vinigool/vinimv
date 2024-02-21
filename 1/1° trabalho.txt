@@ -3,8 +3,49 @@ MARCOS VINICIUS B RIBEIRO
 Ibmec Centro 
 EDUARDO BRITO
 
+o que é um arquivo ?
+
+      Um arquivo de computador ou ficheiro de computador é um recurso para armazenamento de 
+informação, que está disponível a um programa de computador e é normalmente baseado em 
+algum tipo de armazenamento durável. Outra definição também utilizada, no contexto 
+da informatica, um arquivo é um conjunto de dados que se relacionam de alguma forma, 
+ou seja, juntos descrevem uma informação ou conjunto de informações. Em função da 
+natureza dos computadores, arquivos são sempre formados por dados digitais, organizados 
+seguindo algum tipo de estrutura (ou formato).
+
 O que é uma variavel ?
+
+Variável é o nome utilizado para definir um ou mais valores que são manipulados pelos 
+programas durante a sua operação. O nome variável é utilizado por ser um tipo de conteúdo 
+que pode apresentar diferentes valores enquanto o sistema está em execução. Tudo dependerá 
+do comando do usuário e o tipo de operação que é realizado. As variáveis de programação 
+são fundamentais para o dia a dia do programador. Elas orientam o programa a executar 
+operações, permitem a validação de dados, evitam que o usuário faça operações proibidas e 
+auxiliam na manutenção da integridade dos registros existentes.
 
 O que é um servidor ?
 
-O que é um arquivo de texto ? 
+m servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de 
+comunicação, softwares e, ocasionalmente, algum sistema para armazenamento de dados, como 
+hard disks internos ou memórias SSD. O termo servidor também define um recurso dentro de um 
+sistema computacional maior, capaz de processar aplicações, prestar serviços e armazenar 
+dados. Esses sistemas podem ser físicos ou virtuais, estarem instalados local ou remotamente. 
+Normalmente, são escaláveis e possuem alto poder de processamento. Capazes de executar um 
+conjunto específico de programas ou protocolos para fornecer serviços para outras máquinas 
+ou clientes, servidores são equipamentos dedicados a executar aplicações e serviços dentro 
+de uma rede LAN ou WAN.
+
+O que é um arquivo de texto ?
+
+Um arquivo de texto é um tipo de arquivo de computador que contém texto simples, ou seja,
+caracteres legíveis por humanos. Os usuários de computador criam, editam e leem arquivos 
+de texto em editores de texto, que é um software projetado para manipulação de texto. Alguns 
+dos formatos de arquivo de documento mais comuns incluem PDF, DOC e DOCX, HTML e HTM,
+e XLS e XLSX.
+
+links:
+https://www.controle.net/faq/o-que-sao-servidores
+https://pt.wikipedia.org/wiki/Arquivo_de_computador#:~:text=Um%20arquivo%20de%20computador%20ou,algum%20tipo%20de%20armazenamento%20dur%C3%A1vel.
+https://bruno.dac.ufla.br/aulas/arquivos-e-diretorios.html#:~:text=Em%20inform%C3%A1tica%2C%20um%20arquivo%20%C3%A9,de%20estrutura%20(ou%20formato).
+https://www.phoenixnap.pt/gloss%C3%A1rio/o-que-%C3%A9-um-arquivo-de-texto#:~:text=Um%20arquivo%20de%20texto%20%C3%A9,projetado%20para%20manipula%C3%A7%C3%A3o%20de%20texto.
+https://gaea.com.br/variaveis-programacao/
